@@ -1,0 +1,50 @@
+.file-upload-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #3a8cbf;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .media-preview {
+    margin: 10px 0;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .video-preview {
+    background-color: #f1f1f1;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+  
+  .remove-media-btn {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: rgba(255, 0, 0, 0.7);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+
+  .upload_button{
+    border: 20px solid black;
+    border-radius: 5px;
+  }
